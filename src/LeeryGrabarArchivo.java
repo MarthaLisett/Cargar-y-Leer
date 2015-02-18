@@ -4,7 +4,7 @@
  * Guardar, cargar y pausar juego
  *
  * @author Martha Lisett Benavides Martínez A01280115
- * @author Pedro Esparza García A01280126
+ * @author Pedro Esparza García A01280126  HOLAAAAAAAAA
  * @version 1.00 2014/24/09
  */
 
